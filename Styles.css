@@ -1,1 +1,29 @@
+body {
+  margin: 2rem; /* Add some margin around the resume content */
+  font-family: Arial, sans-serif;
+}
 
+h1, h2, h3 {
+  font-weight: bold;
+}
+
+hr {
+  border: 1px solid #ddd;
+  margin: 1rem 0; /* Add some space above and below the hr line */
+}
+
+.section {
+  margin-bottom: 1.5rem; /* Increase section spacing slightly */
+}
+
+.contact-info {
+  font-style: italic; /* Style contact info slightly differently */
+}
+
+.skills li {
+  display: inline-block;
+  margin-right: 1rem;
+  padding: 0.5rem 1rem; /* Add some padding to skills */
+  border: 1px solid #ddd;
+  border-radius: 5px; /* Add rounded corners to skills */
+}
